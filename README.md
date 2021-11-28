@@ -25,6 +25,8 @@ AWS IOT Greengrass cloud service to deploy and run lambda functions, docker cont
 
         sudo apt install default-jdk
 
+    ![](src/images/2.InstallJava.png)
+    
     ![](src/images/2.InstallJava_Version.png)
 
 3. Login to AWS IOT Greengrass and click Setup one core device
